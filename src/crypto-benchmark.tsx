@@ -185,7 +185,7 @@ const CryptoBenchmark = () => {
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
             <BarChart2 className="w-6 h-6" />
-            Cryptographic Operations Benchmark (you can very it with ChromeDev tools CPU throttle)
+            Cryptographic Operations Benchmark (you can vary these with ChromeDev tools CPU throttle)
           </CardTitle>
         </CardHeader>
         <CardContent>
